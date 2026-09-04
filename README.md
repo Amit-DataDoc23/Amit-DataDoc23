@@ -21,7 +21,7 @@
 - Open to collaborations, projects, and opportunities in **Data Analytics & BI**  
 - Always learning, always building — keen to explore **real-world analytics problems**  
 
-## 👨‍💻 Author
+
 **Amit Mohan Srivastav**  
 Based in Ranchi Jharkhand, India  
 
